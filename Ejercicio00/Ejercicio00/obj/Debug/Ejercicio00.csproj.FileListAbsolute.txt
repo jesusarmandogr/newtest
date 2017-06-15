@@ -1,0 +1,6 @@
+d:\users\jagr\documents\visual studio 2015\Projects\Ejercicio00\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+d:\users\jagr\documents\visual studio 2015\Projects\Ejercicio00\Ejercicio00\bin\Debug\Ejercicio00.exe
+d:\users\jagr\documents\visual studio 2015\Projects\Ejercicio00\Ejercicio00\bin\Debug\Ejercicio00.pdb
+d:\users\jagr\documents\visual studio 2015\Projects\Ejercicio00\Ejercicio00\obj\Debug\Ejercicio00.csprojResolveAssemblyReference.cache
+d:\users\jagr\documents\visual studio 2015\Projects\Ejercicio00\Ejercicio00\obj\Debug\Ejercicio00.exe
+d:\users\jagr\documents\visual studio 2015\Projects\Ejercicio00\Ejercicio00\obj\Debug\Ejercicio00.pdb
